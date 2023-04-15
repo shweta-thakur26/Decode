@@ -1,4 +1,4 @@
-# OS-Simulator
+# Decode
 
 The Operating System simulator is built using HTML, CSS and JavaScript which simulates the Operating System concepts.
 The Operating System simulator is designed to solve different process scheduling problems, page replacement problems and disk scheduling problems.
